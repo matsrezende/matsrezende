@@ -7,11 +7,7 @@
 
 ### 👋 Sobre mim
 
-Sou estudante de Engenharia de Software na FIAP, com experiência prática em Marketing Digital e Análise de Dados no Mercado Livre.  
-Tenho 19 anos e sou apaixonado por tecnologia, desenvolvimento de software e inovação.
-
-Durante minha trajetória, desenvolvi habilidades sólidas em desenvolvimento fullstack, com foco em **JavaScript, ReactJS, Python e Java**.  
-Trabalho bem em equipe, comunico ideias com clareza e busco sempre entregar soluções eficientes com organização e atitude positiva.
+Sou estudante de Engenharia de Software na FIAP, com experiência prática em Marketing Digital e Análise de Dados no Mercado Livre.  Tenho 19 anos e sou apaixonado por tecnologia, desenvolvimento de software e inovação.Durante minha trajetória, desenvolvi habilidades sólidas em desenvolvimento fullstack, com foco em **JavaScript, ReactJS, Python e Java**.  Trabalho bem em equipe, comunico ideias com clareza e busco sempre entregar soluções eficientes com organização e atitude positiva.
 
 Aqui no GitHub, você encontra projetos que refletem minha vontade constante de aprender, crescer e evoluir como profissional na área de tecnologia.
 
@@ -54,7 +50,7 @@ Aqui no GitHub, você encontra projetos que refletem minha vontade constante de 
   <img 
     align="left" 
     alt="Top Linguagens" 
-    height="180px" 
+    height="165px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=matsrezende&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
 </p>
